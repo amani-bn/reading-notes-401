@@ -11,4 +11,4 @@
 
 |title      |link |
 |-----      |---------------------------------------------------------------     |
-|read      |[link to read](https://amani-bn.github.io/reading-notes-401/prework)     |
+|prework      |[link to prework](https://amani-bn.github.io/reading-notes-401/prework)     |
